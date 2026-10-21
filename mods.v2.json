@@ -1928,9 +1928,9 @@
     "name": "Rating Badges",
     "author": "grimmdev",
     "description": "Rating badges for imdb, and rotten tomatoes.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "createdAt": "2026-01-10",
-    "updatedAt": "2026-09-15",
+    "updatedAt": "2026-10-21",
     "jellyfin": "10.11+",
     "tags": [
       "ui",
@@ -1939,16 +1939,16 @@
     ],
     "previewUrl": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/RatingBadges/thumbnail.png",
     "screenshots": [],
-    "sourceUrl": "https://github.com/Jellyfin-PG/Custom-Mods/tree/main/RatingBadges",
+    "sourceUrl": "https://github.com/rodion981/JellyFrame-Resources/blob/add-quality-badges/mods/rating-badges-compact.js",
     "files": [
       {
         "type": "js",
-        "url": "https://cdn.jsdelivr.net/gh/Jellyfin-PG/Custom-Mods@main/RatingBadges/RatingBadges.min.js",
-        "version": "1.0.0",
-        "date": "2026-09-15",
+        "url": "https://raw.githubusercontent.com/rodion981/JellyFrame-Resources/1121eb4c4662252344ec81559ac7e14b77367780/mods/rating-badges-compact.min.js",
+        "version": "1.0.1",
+        "date": "2026-10-21",
         "jellyfin": "10.11+",
         "changelog": [
-          "Client browser mod script"
+          "Smaller rating badges for narrow poster cards"
         ]
       }
     ],
@@ -1957,6 +1957,13 @@
     "preconnect": [],
     "vars": [],
     "changelog": [
+      {
+        "version": "1.0.1",
+        "date": "2026-10-21",
+        "changes": [
+          "Smaller rating badges for narrow poster cards"
+        ]
+      },
       {
         "version": "1.0.0",
         "date": "2026-09-15",
