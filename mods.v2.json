@@ -2750,5 +2750,48 @@
         ]
       }
     ]
+  },
+  {
+    "id": "quality-badges",
+    "name": "Quality Badges",
+    "author": "rodion981",
+    "description": "Compact resolution, HDR, video codec, and audio badges on Jellyfin movie and episode posters. Configure badges and libraries from the library toolbar.",
+    "version": "1.0.1",
+    "createdAt": "2026-09-28",
+    "updatedAt": "2026-10-21",
+    "jellyfin": "10.10+",
+    "tags": [
+      "ui",
+      "metadata",
+      "badges"
+    ],
+    "previewUrl": "https://raw.githubusercontent.com/rodion981/jellyfin-quality-badges/main/thumbnail.png",
+    "screenshots": [],
+    "sourceUrl": "https://github.com/rodion981/jellyfin-quality-badges",
+    "files": [
+      {
+        "type": "js",
+        "url": "https://raw.githubusercontent.com/rodion981/jellyfin-quality-badges/d982b063799babc463b373f33cfdd1a342ce8b38/QualityBadges.min.js",
+        "version": "1.0.1",
+        "date": "2026-09-28",
+        "jellyfin": "10.10+",
+        "changelog": [
+          "Client browser mod script"
+        ]
+      }
+    ],
+    "permissions": [],
+    "requires": [],
+    "preconnect": [],
+    "vars": [],
+    "changelog": [
+      {
+        "version": "1.0.1",
+        "date": "2026-09-28",
+        "changes": [
+          "Initial release"
+        ]
+      }
+    ]
   }
 ]
