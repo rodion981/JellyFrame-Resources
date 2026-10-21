@@ -1349,12 +1349,12 @@
     "id": "quality-badges",
     "name": "Quality Badges",
     "author": "rodion981",
-    "description": "Compact quality badges on Jellyfin movies, episodes, and collections when every movie shares the same format. Configure badges and libraries from the library toolbar.",
-    "version": "1.0.2",
+    "description": "Compact quality badges on movies and episodes, shared badges on collections, and resolution summaries on series and seasons. Configure badges and libraries from the library toolbar.",
+    "version": "1.0.3",
     "jellyfin": "10.10+",
     "tags": ["ui", "metadata", "badges"],
     "previewUrl": "https://raw.githubusercontent.com/rodion981/jellyfin-quality-badges/main/thumbnail.png",
     "sourceUrl": "https://github.com/rodion981/jellyfin-quality-badges",
-    "jsUrl": "https://raw.githubusercontent.com/rodion981/jellyfin-quality-badges/dc34ba63564ff34b2ee399fd248ca43ab2fe70c3/QualityBadges.min.js"
+    "jsUrl": "https://raw.githubusercontent.com/rodion981/jellyfin-quality-badges/8b29b360909e474871f6ae38be6630c024d3abe1/QualityBadges.min.js"
   }
 ]
